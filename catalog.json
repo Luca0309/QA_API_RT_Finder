@@ -14,4 +14,90 @@
       ]
     }
   ]
+},
+    {
+      "version": "2.6.0",
+      "title": "RT 필터 자동 갱신",
+      "releasedAt": "2026-08-12",
+      "required": false,
+      "downloadUrl": "",
+      "changes": [
+        "최신 RT 차수 자동 탐색",
+        "연도 변경 시 이전 차수 표시",
+        "이전 RT 최대 5개 노출"
+      ]
+    },
+    {
+      "version": "2.5.0",
+      "title": "빌드 및 커밋 조회",
+      "releasedAt": "2026-08-11",
+      "required": false,
+      "downloadUrl": "",
+      "changes": [
+        "Android 및 iOS 빌드 설정 조회",
+        "릴리즈별 포함 커밋과 대기 커밋 표시",
+        "커밋 제목 목록 펼치기 지원"
+      ]
+    },
+    {
+      "version": "2.4.0",
+      "title": "설치 QR 및 앱 설치 개선",
+      "releasedAt": "2026-08-10",
+      "required": false,
+      "downloadUrl": "",
+      "changes": [
+        "릴리즈 설치 QR 팝업 추가",
+        "Android APK 설치 파일 연결",
+        "iOS OTA 앱 설치 주소 연결"
+      ]
+    },
+    {
+      "version": "2.3.0",
+      "title": "Android 및 iOS 통합",
+      "releasedAt": "2026-08-09",
+      "required": false,
+      "downloadUrl": "",
+      "changes": [
+        "Android/iOS 전환 UI 추가",
+        "Sandbox/Beta 환경 전환 지원",
+        "선택 환경별 최신 릴리즈 조회"
+      ]
+    },
+    {
+      "version": "2.2.0",
+      "title": "RC 및 Hotfix 릴리즈 분류",
+      "releasedAt": "2026-08-08",
+      "required": false,
+      "downloadUrl": "",
+      "changes": [
+        "RC와 Hotfix 검색 분리",
+        "버전 patch 값을 활용한 Hotfix 판별",
+        "이전 RC 및 Hotfix 탐색 지원"
+      ]
+    },
+    {
+      "version": "2.1.0",
+      "title": "Appcenter API 기반 검색",
+      "releasedAt": "2026-08-07",
+      "required": false,
+      "downloadUrl": "",
+      "changes": [
+        "화면 스크롤 및 OCR 검색 제거",
+        "로그인 세션 기반 Appcenter API 조회",
+        "대량 릴리즈 페이지 탐색 지원"
+      ]
+    },
+    {
+      "version": "2.0.0",
+      "title": "NAVI QA API RT Finder 시작",
+      "releasedAt": "2026-08-06",
+      "required": false,
+      "downloadUrl": "",
+      "changes": [
+        "RT 차수별 최신 릴리즈 검색",
+        "상세 릴리즈 페이지 이동",
+        "Chrome 확장 프로그램 GUI 제공"
+      ]
+    }
+  ]
 }
