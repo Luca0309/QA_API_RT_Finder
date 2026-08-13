@@ -1,17 +1,3 @@
-{
-  "latestVersion": "2.8.0",
-  "releases": [
-    {
-      "version": "2.8.0",
-      "title": "업데이트 알림 동작 테스트",
-      "releasedAt": "2026-08-13",
-      "required": false,
-      "downloadUrl": "https://github.com/Luca0309/QA_API_RT_Finder/releases/download/v2.8.0/navi-qa-api-finder-v2.8.0.zip",
-      "changes": [
-        "v2.8.0 업데이트 알림 동작을 테스트합니다.",
-        "업데이트 보관함에서 최신 ZIP 다운로드를 확인합니다."
-      ]
-    },
     {
       "version": "2.7.0",
       "title": "업데이트 보관함 추가",
