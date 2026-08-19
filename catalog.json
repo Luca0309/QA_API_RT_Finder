@@ -1,6 +1,19 @@
 {
-  "latestVersion": "2.11.0",
+  "latestVersion": "2.12.0",
   "releases": [
+    {
+      "version": "2.12.0",
+      "title": "공식 업데이트 보관함 자동 연결",
+      "releasedAt": "2026-08-19",
+      "required": false,
+      "downloadUrl": "https://github.com/Luca0309/QA_API_RT_Finder/releases/download/v2.12.0/navi-qa-api-finder-v2.12.0.zip",
+      "changes": [
+        "공식 GitHub 업데이트 보관함 주소를 확장 프로그램에 기본으로 내장했습니다.",
+        "신규 설치와 버전 교체 후에도 보관함 주소를 다시 입력할 필요가 없습니다.",
+        "주소 입력, 저장 및 삭제 UI를 제거했습니다.",
+        "팝업을 열면 공식 보관함에서 최신 버전을 자동으로 확인합니다."
+      ]
+    },
     {
       "version": "2.11.0",
       "title": "백그라운드 검색 및 결과 복원",
