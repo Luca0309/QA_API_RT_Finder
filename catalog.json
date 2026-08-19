@@ -1,6 +1,19 @@
 {
-  "latestVersion": "2.10.0",
+  "latestVersion": "2.11.0",
   "releases": [
+    {
+      "version": "2.11.0",
+      "title": "백그라운드 검색 및 결과 복원",
+      "releasedAt": "2026-08-19",
+      "required": false,
+      "downloadUrl": "https://github.com/Luca0309/QA_API_RT_Finder/releases/download/v2.11.0/navi-qa-api-finder-v2.11.0.zip",
+      "changes": [
+        "GUI를 닫거나 다른 사이트로 이동해도 진행 중인 검색을 계속합니다.",
+        "GUI를 다시 열면 마지막 검색 조건과 릴리즈 목록을 자동 복원합니다.",
+        "마지막으로 보고 있던 RC 또는 Hotfix 순번까지 유지합니다.",
+        "검색 완료 및 실패 상태를 확장 아이콘 배지로 안내합니다."
+      ]
+    },
     {
       "version": "2.10.0",
       "title": "Appcenter 세션 자동 재연결",
