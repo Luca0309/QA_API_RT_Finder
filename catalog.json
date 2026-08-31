@@ -39,9 +39,20 @@
         "RT 목록 수동 갱신 버튼과 마지막 갱신 상태를 추가했습니다.",
         "일부 API 조회가 실패해도 기존 정상 RT 목록을 유지하도록 개선했습니다."
       ]
-    }
-  ]
-   },
+    },
+    {
+      "version": "2.12.0",
+      "title": "공식 업데이트 보관함 자동 연결",
+      "releasedAt": "2026-08-19",
+      "required": false,
+      "downloadUrl": "https://github.com/Luca0309/QA_API_RT_Finder/releases/download/v2.12.0/navi-qa-api-finder-v2.12.0.zip",
+      "changes": [
+        "공식 GitHub 업데이트 보관함 주소를 확장프로그램에 기본으로 내장했습니다.",
+        "신규 설치와 버전 교체 후 보관함 주소를 다시 입력할 필요가 없습니다.",
+        "주소 입력, 저장 및 삭제 UI를 제거했습니다.",
+        "GUI 실행 시 공식 보관함에서 최신 버전을 자동으로 확인합니다."
+      ]
+    },
     {
       "version": "2.11.0",
       "title": "백그라운드 검색 및 결과 복원",
@@ -97,7 +108,11 @@
       "releasedAt": "2026-08-12",
       "required": false,
       "downloadUrl": "",
-      "changes": ["최신 RT 차수 자동 탐색", "연도 변경 시 이전 차수 표시", "이전 RT 최대 5개 노출"]
+      "changes": [
+        "최신 RT 차수 자동 탐색",
+        "연도 변경 시 이전 차수 표시",
+        "이전 RT 최대 5개 노출"
+      ]
     },
     {
       "version": "2.5.0",
@@ -105,7 +120,11 @@
       "releasedAt": "2026-08-11",
       "required": false,
       "downloadUrl": "",
-      "changes": ["Android 및 iOS 빌드 설정 조회", "릴리즈별 포함 커밋과 대기 커밋 표시", "커밋 제목 목록 펼치기 지원"]
+      "changes": [
+        "Android 및 iOS 빌드 설정 조회",
+        "릴리즈별 포함 커밋과 대기 커밋 표시",
+        "커밋 제목 목록 펼치기 지원"
+      ]
     },
     {
       "version": "2.4.0",
@@ -113,7 +132,11 @@
       "releasedAt": "2026-08-10",
       "required": false,
       "downloadUrl": "",
-      "changes": ["릴리즈 설치 QR 팝업 추가", "Android APK 설치 파일 연결", "iOS OTA 앱 설치 주소 연결"]
+      "changes": [
+        "릴리즈 설치 QR 팝업 추가",
+        "Android APK 설치 파일 연결",
+        "iOS OTA 앱 설치 주소 연결"
+      ]
     },
     {
       "version": "2.3.0",
@@ -121,7 +144,11 @@
       "releasedAt": "2026-08-09",
       "required": false,
       "downloadUrl": "",
-      "changes": ["Android/iOS 전환 UI 추가", "Sandbox/Beta 환경 전환 지원", "선택 환경별 최신 릴리즈 조회"]
+      "changes": [
+        "Android/iOS 전환 UI 추가",
+        "Sandbox/Beta 환경 전환 지원",
+        "선택 환경별 최신 릴리즈 조회"
+      ]
     },
     {
       "version": "2.2.0",
@@ -129,7 +156,11 @@
       "releasedAt": "2026-08-08",
       "required": false,
       "downloadUrl": "",
-      "changes": ["RC와 Hotfix 검색 분리", "버전 patch 값을 활용한 Hotfix 판별", "이전 RC 및 Hotfix 탐색 지원"]
+      "changes": [
+        "RC와 Hotfix 검색 분리",
+        "버전 patch 값을 활용한 Hotfix 판별",
+        "이전 RC 및 Hotfix 탐색 지원"
+      ]
     },
     {
       "version": "2.1.0",
@@ -137,7 +168,11 @@
       "releasedAt": "2026-08-07",
       "required": false,
       "downloadUrl": "",
-      "changes": ["화면 스크롤 및 OCR 검색 제거", "로그인 세션 기반 Appcenter API 조회", "대량 릴리즈 페이지 탐색 지원"]
+      "changes": [
+        "화면 스크롤 및 OCR 검색 제거",
+        "로그인 세션 기반 Appcenter API 조회",
+        "대량 릴리즈 페이지 탐색 지원"
+      ]
     },
     {
       "version": "2.0.0",
@@ -145,7 +180,11 @@
       "releasedAt": "2026-08-06",
       "required": false,
       "downloadUrl": "",
-      "changes": ["RT 차수별 최신 릴리즈 검색", "상세 릴리즈 페이지 이동", "Chrome 확장 프로그램 GUI 제공"]
+      "changes": [
+        "RT 차수별 최신 릴리즈 검색",
+        "상세 릴리즈 페이지 이동",
+        "Chrome 확장프로그램 GUI 제공"
+      ]
     }
   ]
 }
