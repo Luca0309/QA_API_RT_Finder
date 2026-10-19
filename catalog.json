@@ -1,6 +1,19 @@
 {
-  "latestVersion": "2.16.0",
+  "latestVersion": "2.17.0",
   "releases": [
+    {
+      "version": "2.17.0",
+      "title": "RT 앱 버전 표시 및 UI 가독성 개선",
+      "releasedAt": "2026-10-19",
+      "required": false,
+      "downloadUrl": "https://github.com/Luca0309/QA_API_RT_Finder/releases/download/v2.17.0/navi-qa-api-finder-v2.17.0.zip",
+      "changes": [
+        "릴리즈 트레인 선택 항목에 앱 버전을 함께 표시합니다.",
+        "신규 RT가 추가될 때 릴리즈 및 빌드 정보에서 버전을 자동으로 분석합니다.",
+        "검색에 사용하는 RT 값은 그대로 유지해 기존 RC 및 Hotfix 검색과 결과 복원 기능을 보호했습니다.",
+        "팝업 폭과 결과 및 커밋 영역의 글자 크기를 확대해 가독성을 개선했습니다."
+      ]
+    },
     {
       "version": "2.16.0",
       "title": "새로고침 세션 유지 및 업데이트 알림 개선",
